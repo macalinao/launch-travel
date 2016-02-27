@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/simplyianm/launch-travel/issues"
   },
-  "homepage": "https://github.com/simplyianm/launch-travel#readme"
+  "homepage": "https://github.com/simplyianm/launch-travel#readme",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "superagent": "^1.8.0-beta.1",
+    "superagent-bluebird-promise": "^3.0.0"
+  }
 }
