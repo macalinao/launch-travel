@@ -18,6 +18,9 @@
   "homepage": "https://github.com/simplyianm/launch-travel#readme",
   "dependencies": {
     "bluebird": "^3.3.3",
+    "co": "^4.6.0",
+    "koa": "^2.0.0-alpha.3",
+    "koa-router": "^7.0.1",
     "superagent": "^1.8.0-beta.1",
     "superagent-bluebird-promise": "^3.0.0"
   }

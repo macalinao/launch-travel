@@ -1,9 +1,9 @@
 const expedia = require('../lib/expedia');
 
 expedia.
-  nlpSearch('bangkok safe hotels').
-  then(result => {a
-    console.log(result.body);
+  cityInfo('San Francisco').
+  then(result => {
+    console.log(JSON.stringify(result));
   }).
   catch(error => {
     console.error(error.message);
