@@ -12,9 +12,10 @@ let current = {};
 
 while (lines.length > 0) {
   const next = lines.shift();
-  if (current.length === 0 || next.split(': ').length === 2) {
+  const parts = next.split(': ');
+  if (current.length === 0 || (parts.length === 2 && parts[0].length === 2)) {
     current = {
-      city: next,
+      city: next.split(': ')[1],
       content: ''
     };
     cities.push(current);
