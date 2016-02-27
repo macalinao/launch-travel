@@ -1,0 +1,148 @@
+{
+    "predictions": [
+        {
+            "trait": "BIG5_Conscientiousness",
+            "value": 0.6896876186993252
+        },
+        {
+            "trait": "Relationship_Married",
+            "value": 0.12977361213672592
+        },
+        {
+            "trait": "Concentration_Finance",
+            "value": 0.036236453011681796
+        },
+        {
+            "trait": "Lesbian",
+            "value": 0.006713334193629783
+        },
+        {
+            "trait": "BIG5_Extraversion",
+            "value": 0.5250972377475239
+        },
+        {
+            "trait": "Concentration_Biology",
+            "value": 0.07144903315061833
+        },
+        {
+            "trait": "Female",
+            "value": 0.0147266137273751
+        },
+        {
+            "trait": "Concentration_Business",
+            "value": 0.13925595671449806
+        },
+        {
+            "trait": "Satisfaction_Life",
+            "value": 0.6511978400503418
+        },
+        {
+            "trait": "Concentration_Law",
+            "value": 0.03020485461744781
+        },
+        {
+            "trait": "Religion_Lutheran",
+            "value": 0.06337786160818616
+        },
+        {
+            "trait": "Religion_None",
+            "value": 0.4203713163706201
+        },
+        {
+            "trait": "Politics_Uninvolved",
+            "value": 0.15354717836856585
+        },
+        {
+            "trait": "Concentration_History",
+            "value": 0.035958644527411626
+        },
+        {
+            "trait": "Concentration_Art",
+            "value": 0.1040014663753808
+        },
+        {
+            "trait": "Gay",
+            "value": 0.028778534071026277
+        },
+        {
+            "trait": "Religion_Mormon",
+            "value": 0.004947450358750763
+        },
+        {
+            "trait": "Religion_Jewish",
+            "value": 0.029801579817689286
+        },
+        {
+            "trait": "Age",
+            "value": 24.19789868958694
+        },
+        {
+            "trait": "BIG5_Agreeableness",
+            "value": 0.4824766686919894
+        },
+        {
+            "trait": "Concentration_Engineering",
+            "value": 0.28015804416461476
+        },
+        {
+            "trait": "Concentration_Nursing",
+            "value": 0.025585905800772645
+        },
+        {
+            "trait": "BIG5_Neuroticism",
+            "value": 0.23852331727306597
+        },
+        {
+            "trait": "Relationship_Yes",
+            "value": 0.20281091562762235
+        },
+        {
+            "trait": "Politics_Liberal",
+            "value": 0.5667958252763978
+        },
+        {
+            "trait": "Concentration_IT",
+            "value": 0.08163791355262652
+        },
+        {
+            "trait": "Relationship_None",
+            "value": 0.6674154722356518
+        },
+        {
+            "trait": "BIG5_Openness",
+            "value": 0.19985873018309458
+        },
+        {
+            "trait": "Politics_Libertanian",
+            "value": 0.04438763615553833
+        },
+        {
+            "trait": "Religion_Christian_Other",
+            "value": 0.21765107359825642
+        },
+        {
+            "trait": "Concentration_Journalism",
+            "value": 0.03372102759168963
+        },
+        {
+            "trait": "Politics_Conservative",
+            "value": 0.23526936019949807
+        },
+        {
+            "trait": "Intelligence",
+            "value": 0.9341220228668454
+        },
+        {
+            "trait": "Religion_Catholic",
+            "value": 0.26385071824649736
+        },
+        {
+            "trait": "Concentration_Psychology",
+            "value": 0.12851992933190126
+        },
+        {
+            "trait": "Concentration_Education",
+            "value": 0.033270771161356766
+        }
+    ]
+}
