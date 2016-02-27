@@ -1,0 +1,19 @@
+{
+  "name": "launch-travel",
+  "version": "0.1.0",
+  "description": "Travel app made during LAUNCH hackathon 2016. Backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplyianm/launch-travel.git"
+  },
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/launch-travel/issues"
+  },
+  "homepage": "https://github.com/simplyianm/launch-travel#readme"
+}
