@@ -24,4 +24,11 @@ while (lines.length > 0) {
   }
 }
 
-console.log(cities);
+cities.forEach(city => {
+  console.log(`Writing ${city.city}`);
+  const cityFile = city.city.toLowerCase().split(' ').join('-') + '.txt';
+  fs.writeFileSync(
+    `${__dirname}/../data/cities/${cityFile}`,
+    city.city + '\n' + city.content
+  );
+});
