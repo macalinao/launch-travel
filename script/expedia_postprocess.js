@@ -26,6 +26,7 @@ data.activities = data.activities.map(activity => {
   activity.matchRatings = m;
   activity.match = personality.score(m);
   activity.distanceFromHotel = +(Math.random() * 10 + 2).toFixed(2);
+  activity.rating = +(Math.random() * 1.5 + 3.5).toFixed(2);
   return activity;
 }).sort((a, b) => {
   return b.match - a.match;
