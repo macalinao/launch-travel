@@ -21,7 +21,8 @@
     "AmenityList": {
       "Amenity": "High-speed Internet"
     },
-    "link": "expda://hotelSearch?hotelId=19712"
+    "link": "expda://hotelSearch?hotelId=19712",
+    "price": "226.96"
   },
   "flight": {
     "FlightPriceSummary": {
@@ -41,17 +42,18 @@
     "Timestamp": "2016-02-28T01:27:15.118Z",
     "AirProductToken": [
       "AQo_Ch4IxJgBEgQxNDA4GI5QIPISKI2-RTD7vkU4VkAAWAEKHQjEmAESAzQ0NBjyEiCpUSiMwEUwnMJFOFZAAFgBCkEKHgjEmAESAzQxORipUSCLuAEoju5FMJjxRThWQABYAQofCMSYARIENTg1MBiLuAEgjlAooPJFMPjyRThWQABYARIGCAkQAhgCGAEiBAgBEAEoBCgDKAEoBzAC"
-    ]
+    ],
+    "airline": "Spirit Airlines"
   },
   "activities": [
     {
       "name": "Helicopter Tour of Landmarks",
       "distanceFromHotel": 0.7,
-      "address": "46179 Jaime Locks",
+      "address": "893 Ziemann Row",
       "price": "$145",
-      "match": 84,
+      "match": 85,
       "rating": 4.65,
-      "ratingName": "Gardner Lang",
+      "ratingName": "Gilbert Schoen",
       "ratingDescription": "I love Helicopter Tour of Landmarks. It is an amazing place!",
       "descriptionLong": "For an unforgettable way to experience the awe-inspiring skyline of New York, hop aboard a state-of-the-art helicopter and soar high above the skyscrapers for incredible views of the entire city. This thrilling adventure lets you come face-to-face with iconic landmarks, statues, and sprawling parks.\nDepart from Manhattan’s Downtown Heliport near the southern tip of the island, and climb out over the Hudson River. Marvel at the 360-degree views of the Statue of Liberty and neighboring Ellis Island before circling round over the Financial District. Snap some incredible photos of the poignant 9/11 site, and the majestic new skyscraper, 1 World Trade Center.\nContinue on towards Midtown, where the art-deco styling of the Empire State Building, Chrysler Building, and 30 Rockefeller Plaza are all vying for your attention. From up here, you really get a sense of the scale of the buildings, and catch glimpses of the hustle and bustle of the hundreds of yellow taxis hurtling through the streets below.\nListen to the insightful commentary provided by your pilot as you gaze on at the green haven of the sprawling Central Park. Finally, make your way back to the heliport with extraordinary photos, and memories that are sure to last a lifetime.",
       "bookWebsite": "http://www.expedia.com/activities/183607"
@@ -59,11 +61,11 @@
     {
       "name": "The Lion King on Broadway",
       "distanceFromHotel": 0.7,
-      "address": "83168 Grant Brook",
+      "address": "62238 Monahan Prairie",
       "price": "$115",
-      "match": 90,
+      "match": 82,
       "rating": 4.2,
-      "ratingName": "Keyon Treutel",
+      "ratingName": "Boris Ernser",
       "ratingDescription": "I love The Lion King on Broadway. It is an amazing place!",
       "descriptionLong": "As the curtain comes up on the African savannah, you’re taken on an enthralling African adventure into the heart of Disney’s classic tale—The Lion King. Journey with Simba as he realizes his royal destiny, all to a soundtrack of Grammy and Academy Award®-winning songs by Elton John and Tim Rice.\nThe Lion King opens with the instantly recognizable call of Rafiki, and a cast of African animals—brought to life by over 50 actors and dancers—is revealed during a rendition of “The Circle of Life” like you’ve never seen it before. The Pride Lands burst with vividly colored animals—human-powered puppets that journey through the aisles, giving you an up-close look at their fantastically intricate costumes.\nFollow the heart-pounding scenes as Simba faces his evil uncle, Scar, is chased from his homeland, and encounters 2 entertaining characters—Timon and Pumbaa—who give him some easy-going insight into their laidback philosophy during “Hakuna Matata.” Having racked up the ultimate in theatrical awards with the Tony for Best Musical, Best Choreography, Best Costume Design, and Best Scenic Design, this is one unbelievable Broadway experience you don’t want to miss.",
       "bookWebsite": "http://www.expedia.com/activities/185492"
@@ -71,11 +73,11 @@
     {
       "name": "New York Pass: Visit over 80 Attractions, Museums & Tours",
       "distanceFromHotel": 0.7,
-      "address": "285 Nelson Lodge",
+      "address": "90565 Brown Circles",
       "price": "$189",
-      "match": 95,
-      "rating": 4.45,
-      "ratingName": "Alf Rippin",
+      "match": 80,
+      "rating": 4.5,
+      "ratingName": "Branson Will",
       "ratingDescription": "I love New York Pass: Visit over 80 Attractions, Museums & Tours. It is an amazing place!",
       "descriptionLong": "The New York Pass lets you visit up to 80 Big Apple attractions, skip lines, and save money along the way. From walking tours to observation decks, world-class museums to river cruises, New York has something for everyone—whether you know exactly what you want to do or are improvising on the go.\nYour New York adventure just got easier (and less expensive) with the sightseeing card that offers access to more than 80 things to do, including the city’s most iconic activities and attractions. Offering fast-track access at many museums and locations and an informative guidebook to help you plan your itinerary, the New York Pass lets you spend more time exploring and less time wasting your precious New York minutes waiting in line.\nActivities and attractions include:\n\n9/11 Museum &amp; Memorial\n9/11 Tribute Center\nStatue of Liberty and Ellis Island Immigration Museum (includes ferry and entry)\nWhitney Museum of American Art\nBrooklyn Museum\nEmpire State Building Observatory\nTop of the Rock Observation Deck\nAmerican Museum of Natural History\nMetropolitan Museum of Art (MET)\nMuseum of Modern Art (MoMA)\nSolomon R. Guggenheim Museum\nDiscovery Times Square\nCircle Line Sightseeing Cruises\nBig Bus Hop on Hop off – Classic Ticket\nRadio City Music Hall Stage Door Tour\nCentral Park Bike Tours and Rentals\nThe Intrepid Sea, Air &amp; Space Museum\nMadame Tussauds New York\nFood on Foot Tours\nGreenwich Village, Wall Street, Brooklyn Bridge, and Central Park walking tours\n",
       "bookWebsite": "http://www.expedia.com/activities/183615"
@@ -83,11 +85,11 @@
     {
       "name": "CityPASS: 6 Must-See Museums & Attractions",
       "distanceFromHotel": 0.7,
-      "address": "447 Spencer Bridge",
+      "address": "97339 Benjamin Ports",
       "price": "$114",
-      "match": 95,
+      "match": 86,
       "rating": 4.65,
-      "ratingName": "Joesph Waters",
+      "ratingName": "Alysson Schroeder",
       "ratingDescription": "I love CityPASS: 6 Must-See Museums & Attractions. It is an amazing place!",
       "descriptionLong": "Skip the ticket lines at 6 of New York's most popular attractions with a multi-ticket booklet that's valid for 9 consecutive days. This pass is perfect if you want to explore the city on your schedule, craft your own itinerary, and visit the city’s can’t-miss museums and most iconic sites.\nSkip the long lines and spend as much time as you like exploring the world-class exhibits at the American Museum of Natural History in the shadow of a T-Rex fossil, scoping out the masterpieces in the Met, and taking in the city lights by day and by night at the Empire State Building.\nAfter that, you can pick and choose from other great Big Apple attractions according to your interests, with harbor cruises, the State of Liberty, the Top of the Rock, and the 9/11 Memorial &amp; Museum among the options. Beyond simply providing entrance to museums and cruises, your CityPASS booklet contains valuable insider tips, hours of operation, and transportation information to help you navigate Manhattan and get the most out of your visit.\nYour New York CityPASS is valid for general admission to the following attractions:\n\nEmpire State Building Observatory\nAmerican Museum of Natural History\nMetropolitan Museum of Art\n\nYou can choose 3 attractions from the following options:\n\nGuggenheim Museum or Top of the Rock Observation Deck\nStatue of Liberty and Ellis Island Cruise or Circle Line Sightseeing Cruise (choice of a Semi-Circle Cruise, Harbor Lights Cruise, a 75-minute Liberty Cruise, or The Beast speedboat tour)\n9/11 Memorial &amp; Museum or Intrepid Sea, Air &amp; Space Museum\n",
       "bookWebsite": "http://www.expedia.com/activities/184465"
@@ -95,11 +97,11 @@
     {
       "name": "Empire State Building Observatory & Statue of Liberty Cruise",
       "distanceFromHotel": 0.7,
-      "address": "8679 Daugherty Way",
+      "address": "99762 Nicola Village",
       "price": "$49",
-      "match": 88,
+      "match": 80,
       "rating": 3.55,
-      "ratingName": "Nola Nienow",
+      "ratingName": "Libbie Brown",
       "ratingDescription": "I love Empire State Building Observatory & Statue of Liberty Cruise. It is an amazing place!",
       "descriptionLong": "Take on 2 of New York City's most iconic landmarks, on-foot and afloat. From the sky-high vantage point at the top of the Empire State Building, to a mid-river perspective of the Statue of Liberty and Ellis Island, you have the freedom to soak up both spectacular experiences over a span of 2 memorable days.\nArrive at the Empire State Building, admire the lobby's impressive art deco interiors, and ascend from ground-level to the 86th floor. Absorb this world-famous structure's 360-degree panoramas of the city skyline via its 1,050-foot (320-m) observation deck. Far from the city’s ever-present hustle and bustle, you can peacefully gaze at famed sights such as Central Park, Times Square, and the Financial District.\nFor a contrast in perspective, head from sky to sea-level as you climb aboard your scenic cruise of the New York Harbor. Soak up the vistas of the sweeping Manhattan skyline—a view captured only from the water—and have your camera ready as you sail towards Lady Liberty herself for an unforgettable, up-close look at this symbol of freedom.",
       "bookWebsite": "http://www.expedia.com/activities/186022"
