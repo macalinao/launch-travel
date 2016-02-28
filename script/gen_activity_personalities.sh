@@ -2,9 +2,9 @@
 
 DIR=$(dirname $0)
 
-mkdir -p "$DIR/../data/cities-analysis"
+mkdir -p "$DIR/../data/activities-analysis"
 
-for FILE in $(ls "$DIR/../data/cities"); do
+for FILE in $(ls "$DIR/../data/activities"); do
 
     echo "Processing city $FILE"
 
@@ -12,9 +12,9 @@ for FILE in $(ls "$DIR/../data/cities"); do
         -H "Content-Language: en" \
         -H "Accept: application/json" \
         -H "Content-Type: text/plain; charset=utf-8" \
-        --data-binary "@$DIR/../data/cities/$FILE" \
+        --data-binary "@$DIR/../data/activities/$FILE" \
         -u "$BLUEMIX_CREDS" \
         "https://gateway.watsonplatform.net/personality-insights/api/v2/profile" \
-        > "$DIR/../data/cities-analysis/$FILE.json"
+        > "$DIR/../data/activities-analysis/$FILE.json"
 
 done
