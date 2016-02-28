@@ -49,7 +49,7 @@
     {
       "id": "267763",
       "name": "TCM Classic Film Tour",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 4.38,
       "address": "Clinton Towers, W 54th St, New York, NY 10019, USA",
       "price": "$43",
       "match": 0.8468579604950885,
@@ -76,7 +76,7 @@
     {
       "id": "183909",
       "name": "All Around Town Double-Decker Sightseeing Bus Tour",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 3.77,
       "address": "Fifth Church of Christ, New York, NY 10173, USA",
       "price": "$54",
       "match": 0.8447873602816465,
@@ -103,7 +103,7 @@
     {
       "id": "185654",
       "name": "Chicago the Musical on Broadway",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 10.64,
       "address": "219 W 49th St, New York, NY 10019, USA",
       "price": "$117",
       "match": 0.8193290072358235,
@@ -130,7 +130,7 @@
     {
       "id": "301520",
       "name": "New York Beer & Brewery Tour",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 3.72,
       "address": "222 E 24th St, New York, NY 10010, USA",
       "price": "$115",
       "match": 0.8171985202626217,
@@ -157,7 +157,7 @@
     {
       "id": "336406",
       "name": "Skiing at Stratton Mountain with 2-Night Stay & 2-Day Lift Ticket",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 10.15,
       "address": "24 Old Town Rd, Bondville, VT 05340, USA",
       "price": "$449",
       "match": 0.8110844378505341,
@@ -184,7 +184,7 @@
     {
       "id": "278287",
       "name": "Smartphone-Guided Central Park Scavenger Hunt",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 11.42,
       "address": "Frisbee Hill, New York, NY 10019, USA",
       "price": "$15",
       "match": 0.8095997462334369,
@@ -211,7 +211,7 @@
     {
       "id": "185464",
       "name": "Aladdin on Broadway",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 6.51,
       "address": "214 W 42nd St, New York, NY 10036, USA",
       "price": "$70",
       "match": 0.8087966059105448,
@@ -238,7 +238,7 @@
     {
       "id": "249206",
       "name": "Statue of Liberty, Ellis Island & 9/11 Memorial & Museum",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 11.18,
       "address": "21 South End Ave, New York, NY 10280, USA",
       "price": "$115",
       "match": 0.8038707845457278,
@@ -265,7 +265,7 @@
     {
       "id": "283177",
       "name": "The Book of Mormon on Broadway",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 3.71,
       "address": "230 W 49th St, New York, NY 10019, USA",
       "price": "$155",
       "match": 0.8025037889861798,
@@ -292,7 +292,7 @@
     {
       "id": "185508",
       "name": "The Phantom of the Opera on Broadway",
-      "distanceFromHotel": 0.7,
+      "distanceFromHotel": 10.4,
       "address": "432 W 44th St, New York, NY 10036, USA",
       "price": "$129",
       "match": 0.7987711599372819,
