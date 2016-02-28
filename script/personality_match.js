@@ -1,5 +1,9 @@
 const fs = require('fs');
 
+const personality = require('../lib/personality');
+const match = personality.match;
+const score = personality.score;
+
 const ROOT = `${__dirname}/../data`;
 const CITIES = `${ROOT}/cities_analysis.json`;
 const MATCH = `${ROOT}/match.json`;
@@ -15,25 +19,6 @@ const big5 = personality.
           acc[el.trait.substring('BIG5_'.length)] = el.value;
           return acc;
         }, {});
-
-function match(a, b) {
-  const ret = {};
-  Object.keys(a).forEach(key => {
-    const diff = Math.abs(a[key] - b[key]);
-    ret[key] = 1 - diff;
-  });
-  return ret;
-}
-
-function score(m) {
-  return (
-    m.Openness * 0.1 +
-    m.Conscientiousness * 0.1 +
-    m.Extraversion * 0.4 +
-    m.Agreeableness * 0.2 +
-    m.Neuroticism * 0.2
-  );
-}
 
 const values = Object.keys(cities).map(city => {
   const m = match(big5, cities[city]);
