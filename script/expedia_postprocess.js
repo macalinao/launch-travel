@@ -31,13 +31,12 @@ data.activities = data.activities.map(activity => {
   const m = personality.match(ratings, match.big5);
   activity.matchRatings = m;
   activity.match = personality.score(m);
-  activity.distanceFromHotel = +(Math.random() * 10 + 2).toFixed(2);
   activity.rating = +(Math.random() * 1.5 + 3.5).toFixed(2);
   const otherLoc = activity.latLng.split(',').map(x => +x);
-  activity.distanceFromHotel = haversine(hotelLoc, {
+  activity.distanceFromHotel = +haversine(hotelLoc, {
     latitude: otherLoc[0],
     longitude: otherLoc[1]
-  });
+  }).toFixed(2);
   return activity;
 }).sort((a, b) => {
   return b.match - a.match;
