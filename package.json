@@ -21,6 +21,7 @@
     "co": "^4.6.0",
     "faker": "^3.0.1",
     "geocoder": "^0.2.2",
+    "haversine": "^1.0.0",
     "koa": "^2.0.0-alpha.3",
     "koa-router": "^7.0.1",
     "ringcentral": "^2.0.4",

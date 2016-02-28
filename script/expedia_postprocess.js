@@ -1,4 +1,5 @@
 const fs = require('fs');
+const haversine = require('haversine');
 const data = require('../data/expedia.json');
 const personality = require('../lib/personality');
 const match = require('../lib/match');
@@ -19,6 +20,11 @@ files.forEach(file => {
   ids[file.substring(0, file.length - '.txt.json'.length)] = stats;
 });
 
+const hotelLoc = {
+  latitude: data.hotel.Location.GeoLocation.Latitude,
+  longitude: data.hotel.Location.GeoLocation.Longitude
+};
+
 data.activities = data.activities.map(activity => {
   const ratings = ids[activity.id];
   activity.ratings = ratings;
@@ -27,6 +33,11 @@ data.activities = data.activities.map(activity => {
   activity.match = personality.score(m);
   activity.distanceFromHotel = +(Math.random() * 10 + 2).toFixed(2);
   activity.rating = +(Math.random() * 1.5 + 3.5).toFixed(2);
+  const otherLoc = activity.latLng.split(',').map(x => +x);
+  activity.distanceFromHotel = haversine(hotelLoc, {
+    latitude: otherLoc[0],
+    longitude: otherLoc[1]
+  });
   return activity;
 }).sort((a, b) => {
   return b.match - a.match;
