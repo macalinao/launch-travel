@@ -1,5 +1,7 @@
 const fs = require('fs');
 const data = require('../data/expedia.json');
+const personality = require('../lib/personality');
+const match = require('../lib/match');
 
 const ANALYSIS_DIR = `${__dirname}/../data/activities-analysis`;
 
@@ -17,7 +19,16 @@ files.forEach(file => {
   ids[file.substring(0, file.length - '.txt.json'.length)] = stats;
 });
 
-console.log(ids);
+data.activities = data.activities.map(activity => {
+  const ratings = ids[activity.id];
+  activity.ratings = ratings;
+  const m = personality.match(ratings, match.big5);
+  activity.matchRatings = m;
+  activity.match = personality.score(m);
+  return activity;
+}).sort((a, b) => {
+  return b.match - a.match;
+}).slice(0, 10);
 
-const str = JSON.string(data, null, 2);
-fs.writeFileSync(`${__dirname}/../data/expedia_full.json`);
+const str = JSON.stringify(data, null, 2);
+fs.writeFileSync(`${__dirname}/../data/expedia_full.json`, str);
