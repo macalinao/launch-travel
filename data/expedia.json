@@ -1,49 +1,49 @@
 {
   "hotel": {
-    "HotelID": "1853240",
-    "Name": "Fairmont Heritage Place, Ghirardelli Square",
+    "HotelID": "2443731",
+    "Name": "Rosewood Sand Hill",
     "Location": {
-      "StreetAddress": "900 N Point Street",
-      "City": "San Francisco",
+      "StreetAddress": "2825 Sand Hill Road",
+      "City": "Menlo Park",
       "Province": "CA",
       "Country": "USA",
       "GeoLocation": {
-        "Latitude": "37.80551",
-        "Longitude": "-122.42206"
+        "Latitude": "37.42113",
+        "Longitude": "-122.21455"
       }
     },
-    "Description": "This family-friendly San Francisco hotel is located in the historical district, just steps from San Francisco Maritime National Historical Park and Ghirardelli Square. Lombard Street and Fisherman's Wharf are also within 15 minutes. ",
-    "DetailsUrl": "http://www.expedia.com/go/hotel/info/1853240/0/0?tpid=1&eapid=0&langid=1033",
+    "Description": "Situated in Menlo Park, this luxury hotel is 1 mi (1.7 km) from SLAC National Accelerator Laboratory and within 3 mi (5 km) of Stanford University and Stanford Shopping Center. Horse Park at Woodside and Stanford University Medical Center are also within 3 mi (5 km). ",
+    "DetailsUrl": "http://www.expedia.com/go/hotel/info/2443731/0/0?tpid=1&eapid=0&langid=1033",
     "StarRating": "5.0",
-    "ThumbnailUrl": "https://images.trvl-media.com/hotels/2000000/1860000/1853300/1853240/1853240_61_t.jpg",
+    "ThumbnailUrl": "https://images.trvl-media.com/hotels/3000000/2450000/2443800/2443731/2443731_30_t.jpg",
     "GuestRating": "4.7",
-    "GuestReviewCount": "143",
+    "GuestReviewCount": "60",
     "AmenityList": {
       "Amenity": [
-        "Courtesy breakfast",
-        "High-speed Internet"
+        "High-speed Internet",
+        "Swimming pool"
       ]
     },
-    "link": "expda://hotelSearch?hotelId=1853240"
+    "link": "expda://hotelSearch?hotelId=2443731"
   },
   "flight": {
     "FlightPriceSummary": {
       "CurrencyCode": "USD",
-      "TotalPrice": 314.42
+      "TotalPrice": 319.35
     },
     "FlightItinerarySummary": {
       "OutboundDepartureAirlineCode": "DL",
       "OutboundDepartureAirportCode": "SFO",
-      "OutboundDepartureTime": "2016-02-29T06:15:00.000-08:00",
+      "OutboundDepartureTime": "2016-03-01T06:15:00.000-08:00",
       "OutboundStopCount": 1,
       "InboundDepartureAirlineCode": "DL",
       "InboundDepartureAirportCode": "JFK",
-      "InboundDepartureTime": "2016-03-23T20:59:00.000-04:00",
+      "InboundDepartureTime": "2016-03-08T11:40:00.000-05:00",
       "InboundStopCount": 1
     },
-    "Timestamp": "2016-02-28T00:47:24.747Z",
+    "Timestamp": "2016-02-27T16:47:03.635Z",
     "AirProductToken": [
-      "AQogCh4IxJgBEgQxMjU1GLJxIKlRKPeyRTDAtUU4VkAAWAEKHwodCMSYARIDNDU2GKlRILJxKNu6RzD0vUc4VkAAWAESBggJEAIYAhgBIgQIARABKAMoASgHMAE"
+      "AQogCh4IxJgBEgQxMjU1GLJxIKlRKJe-RTDgwEU4VkAAWAEKHwodCMSYARIDNDMwGKlRILJxKIiORjCZkUY4VkAAWAESBggJEAIYAhgBIgQIARABKAQoAygBKAcwAQ"
     ]
   },
   "activities": [
@@ -54,7 +54,7 @@
       "price": "$135",
       "match": 85,
       "rating": 0,
-      "ratingName": "Brent Kutch",
+      "ratingName": "Nigel Wisoky",
       "ratingDescription": "I love Alcatraz Package: Hop-On Hop-Off Cruise & City Tour. It is an amazing place!",
       "descriptionLong": "See the wonders of the city on this hop-on hop-off tour, including Golden Gate Park, Pier 39, and Union Square, and then venture offshore, cruising past the notorious former federal prison on Alcatraz Island.\nTour San Francisco and admire all that this diverse city has to offer from your double-decker bus. Marvel at 360-degree views of the city and take unlimited rides for the duration of your ticket. By day, hop on and off at iconic sites including Pier 39, Golden Gate Park, and Union Square to explore as you wish. By night, watch the city glisten and glow on the Night Tour's scenic route.\nWith your ticket, embark on a cruise and glide by Alcatraz, also known as &quot;The Rock.&quot; This tiny island is home to an abandoned jailhouse and the oldest operating lighthouse on the West Coast.\nBack in the city, make the most of your ticket and take walking tours through North Beach, Chinatown, and the infamous Barbary Coast neighborhoods. Visit the charming bayside town of Sausalito, where distinctive boutiques, an array of restaurants and cafes, and art galleries await you. Afterwards, complete your tour with an hour-long bicycle rental to explore at your own pace.",
       "bookWebsite": "http://www.expedia.com/activities/192704"
@@ -66,7 +66,7 @@
       "price": "$110",
       "match": 85,
       "rating": 3.85,
-      "ratingName": "Kiel Rau",
+      "ratingName": "Tyrique Stehr",
       "ratingDescription": "I love Alcatraz Cruise & Hop-On Hop-Off Tour. It is an amazing place!",
       "descriptionLong": "Enjoy 72 hours of unlimited rides on all 4 of San Francisco's open-top double-decker bus tours, and explore the city at your own pace as you hop on and off. Top off your tour on land with a cruise out to the island prison of Alcatraz.\nHop on any of the double-decker bus routes to check out the landmarks of your choice in the City by the Bay. The Downtown Tour takes you by Fisherman's Wharf, Union Square and along the waterfront. The Golden Gate Bridge and Sausalito Tour passes through the Marina District and across the Golden Gate Bridge to the bayside town of Sausalito.\nThe Golden Gate Park and Beach Tour winds through the city's largest park by gardens and museums such as the De Young Museum and the California Academy of Sciences.The Night Tour sets out for an evening look at San Francisco’s sights and city lights.\nOnce you cover enough ground in the city, sail across the bay to America's most notorious prison for a self-guided audio tour of &quot;The Rock&quot;.\nDowntown Tour stops include:\n\nFisherman's Wharf\nUnion Square\nChinatown\nNorth Beach\nEmbarcadero\n\nGolden Gate and Sausalito Tour stops include:\n\nGolden Gate Bridge\nPalace of Fine Arts\nVista Point\nSausalito\nPresidio\nGhirardelli Square\n\nGolden Gate Park and Beach Tour stops include:\n\nSt Mary's Cathedral\nHaight-Ashbury District\nCalifornia Academy of Sciences\nGolden Gate Park\nCivic Center\n\nNight Tour stops include:\n\nFinancial District\nBay Bridge\nAlamo Square\nChinatown\nUnion Square\n\nUpgrade your experience to the Freestyle City Explorer package and explore the natural beauty of the Bay Area, visit a top local attraction, or continue your tour by boat, bike, or GPS GoCar with your choice of 3 additional activities or tours.\nAdmission to 3 of the below attractions:\n\nCalifornia Academy of Sciences\nSan Francisco Bay Cruise\nRipley's Believe It or Not\nMuir Woods and Sausalito Tour\nAquarium by the Bay\n3-hour bike rental\nRocket Boat\nAngel Island Ferry\nSausalito or Tiburon Ferry\n$25 Restaurant Gift Card\n60-minute GPS-guided GoCar tour\nMadame Tussaud’s Wax Museum\nSan Francisco Dungeon\nExploratorium\nDe Young Museum\nLegion of Honor\n",
       "bookWebsite": "http://www.expedia.com/activities/219680"
@@ -78,7 +78,7 @@
       "price": "$30",
       "match": 85,
       "rating": 3.65,
-      "ratingName": "Angelo Fay",
+      "ratingName": "Arvilla Bechtelar",
       "ratingDescription": "I love Golden Gate Bay Cruise. It is an amazing place!",
       "descriptionLong": "Get a look at San Francisco’s breathtaking skyline, waterfront, and wildlife from the water as you cruise under the majestic Golden Gate Bridge and circle notorious Alcatraz Island.\nSet sail from historic Fisherman's Wharf and enjoy breathtaking views of the City by the Bay. Pass by the lively seafood restaurants and parks of North Beach and the beach and bathhouse of the Aquatic Park Historic District. Check out the red-roofed barracks and buildings of Fort Mason and the pastel-colored homes of the waterfront Marina Districts as you approach the massive 4,200-foot (1,280 m) span of the Golden Gate Bridge. Keep your camera handy—you cruise right underneath this iconic and impressive city symbol.\nAs you make your way across the bay, the colorful history of the city is revealed through award-winning narration from a personal, wireless headset. Be on the lookout for aquatic wildlife including seagulls, pelicans, and sea lions. You may even be lucky enough to spot a harbor porpoise or whale.\nAdmire the rugged beauty of the Marin Headlands wildlife reserves and the waterfront charm of picturesque Sausalito. Slowly circle Alcatraz Island, once the involuntary residence of the nation’s most infamous criminals, including Al Capone and George &quot;Machine Gun&quot; Kelly, and see the San Francisco-Oakland Bay Bridge in the distance as you make your way back to the pier to disembark.",
       "bookWebsite": "http://www.expedia.com/activities/219796"
@@ -90,7 +90,7 @@
       "price": "$36",
       "match": 85,
       "rating": 3.9,
-      "ratingName": "Darrion Lakin",
+      "ratingName": "Dexter Gottlieb",
       "ratingDescription": "I love Escape From The Rock Cruise. It is an amazing place!",
       "descriptionLong": "Get an up-close look at the foreboding island penitentiary of Alcatraz from the waters of the San Francisco Bay. See the borders of this fearsome former prison from every angle and listen to engaging audio commentary about the island’s infamous inmates as you cruise around its formidable shores.\nStep aboard a comfortable sightseeing boat at Fisherman’s Wharf and set off across the waves of the bay. Take in views of the city skyline and waterfront of the Marina District as you approach the iconic span of the Golden Gate Bridge, and snap a photo from the deck as you pass directly underneath it.\nConnect to engaging audio-commentary on your smartphone or tablet, and turn your gaze toward Alcatraz’s rocky shores as the boat loops back through the bay toward this ominous outpost. Study the prison’s grounds, fences, and cell block buildings from the water, listening to stories about escape attempts by notorious former prisoners like Al Capone, Clyde Johnson, and Billy Cook the Killer before heading back to shore.",
       "bookWebsite": "http://www.expedia.com/activities/285579"
@@ -102,7 +102,7 @@
       "price": "$149",
       "match": 85,
       "rating": 2.75,
-      "ratingName": "Marge Leannon",
+      "ratingName": "Alejandra Terry",
       "ratingDescription": "I love Yosemite National Park Day Tour. It is an amazing place!",
       "descriptionLong": "Wander down winding trails laden with pine needles, gaze at torrents of cascading water falling from granite cliffs, and explore open meadows flanked by towering rock formations. Ride to Yosemite National Park and spend a day uncovering the stunning corners of this magical landscape.\nHop aboard convenient transportation from your hotel and cruise north, crossing over the Golden Gate Bridge and riding through rolling hills until you arrive at the gates of Yosemite. Disembark and follow your guide for a pleasant walk down scenic hiking trails. As you stroll, listening to fascinating commentary about the natural history of this 1,190-square-mile (3,082-sq-km) wonderland.\nLook for rainbows in the mist of Bridalveil Falls, watch fearless climbers scale the rocky face of El Capitan and Half Dome, or simply sit and relax next to the swift currents of the Merced River. When you're ready for a break, make your way to Yosemite Village to check out intriguing galleries, do some souvenir shopping, or consider grabbing lunch with options ranging from quick-and-easy cafes to fine dining at the Ahwahnee Hotel.\nNo matter how you spend your time at Yosemite, you're sure to be met with incredible views, breathtaking landscapes, and countless photo opportunities before you meet back up with your ride and return to San Francisco.",
       "bookWebsite": "http://www.expedia.com/activities/304202"

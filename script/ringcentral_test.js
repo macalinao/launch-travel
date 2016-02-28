@@ -15,6 +15,7 @@ ringcentral.login().
         return msgs[0].subject;
       }).then(txt => {
         if (txt.startsWith('Ok, book your hotel')) return null;
+        if (txt.startsWith('Your hotel price')) return null;
         console.log(txt);
         return ringcentral.sms(NUMBER, `Ok, book your hotel at ${hotel.link}`);
       }).catch(console.error);
