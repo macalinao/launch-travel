@@ -1,7 +1,7 @@
 const expedia = require('../lib/expedia');
 
 expedia.
-  cityInfo('San Francisco').
+  cityInfo('New York').
   then(result => {
     console.log(JSON.stringify(result, null, 2));
   }).
