@@ -33,6 +33,7 @@ data.activities = data.activities.map(activity => {
   activity.match = personality.score(m);
   activity.rating = +(Math.random() * 1.5 + 3.5).toFixed(2);
   const otherLoc = activity.latLng.split(',').map(x => +x);
+  activity.img = 'http:' + activity.img;
   activity.distanceFromHotel = +haversine(hotelLoc, {
     latitude: otherLoc[0],
     longitude: otherLoc[1]
