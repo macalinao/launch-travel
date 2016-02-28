@@ -1,111 +1,108 @@
 {
   "hotel": {
-    "HotelID": "2443731",
-    "Name": "Rosewood Sand Hill",
+    "HotelID": "19712",
+    "Name": "The Mark",
     "Location": {
-      "StreetAddress": "2825 Sand Hill Road",
-      "City": "Menlo Park",
-      "Province": "CA",
+      "StreetAddress": "Madison Ave at 77th Street",
+      "City": "New York",
+      "Province": "NY",
       "Country": "USA",
       "GeoLocation": {
-        "Latitude": "37.42113",
-        "Longitude": "-122.21455"
+        "Latitude": "40.775147",
+        "Longitude": "-73.963432"
       }
     },
-    "Description": "Situated in Menlo Park, this luxury hotel is 1 mi (1.7 km) from SLAC National Accelerator Laboratory and within 3 mi (5 km) of Stanford University and Stanford Shopping Center. Horse Park at Woodside and Stanford University Medical Center are also within 3 mi (5 km). ",
-    "DetailsUrl": "http://www.expedia.com/go/hotel/info/2443731/0/0?tpid=1&eapid=0&langid=1033",
+    "Description": "This 16-story hotel is in Manhattan's Upper East Side, close to the Metropolitan Museum of Art, The Whitney Museum, and Central Park. With Madison Avenue less than a block away, The Mark places you in the center of Manhattan's social and cultural scene.",
+    "DetailsUrl": "http://www.expedia.com/go/hotel/info/19712/0/0?tpid=1&eapid=0&langid=1033",
     "StarRating": "5.0",
-    "ThumbnailUrl": "https://images.trvl-media.com/hotels/3000000/2450000/2443800/2443731/2443731_30_t.jpg",
-    "GuestRating": "4.7",
-    "GuestReviewCount": "60",
+    "ThumbnailUrl": "https://images.trvl-media.com/hotels/1000000/20000/19800/19712/19712_198_t.jpg",
+    "GuestRating": "4.8",
+    "GuestReviewCount": "244",
     "AmenityList": {
-      "Amenity": [
-        "High-speed Internet",
-        "Swimming pool"
-      ]
+      "Amenity": "High-speed Internet"
     },
-    "link": "expda://hotelSearch?hotelId=2443731"
+    "link": "expda://hotelSearch?hotelId=19712"
   },
   "flight": {
     "FlightPriceSummary": {
       "CurrencyCode": "USD",
-      "TotalPrice": 319.35
+      "TotalPrice": 336.62
     },
     "FlightItinerarySummary": {
       "OutboundDepartureAirlineCode": "DL",
-      "OutboundDepartureAirportCode": "SFO",
-      "OutboundDepartureTime": "2016-03-01T06:15:00.000-08:00",
-      "OutboundStopCount": 1,
+      "OutboundDepartureAirportCode": "OAK",
+      "OutboundDepartureTime": "2016-03-01T06:05:00.000-08:00",
+      "OutboundStopCount": 2,
       "InboundDepartureAirlineCode": "DL",
       "InboundDepartureAirportCode": "JFK",
-      "InboundDepartureTime": "2016-03-08T11:40:00.000-05:00",
-      "InboundStopCount": 1
+      "InboundDepartureTime": "2016-03-05T15:30:00.000-05:00",
+      "InboundStopCount": 2
     },
-    "Timestamp": "2016-02-27T16:47:03.635Z",
+    "Timestamp": "2016-02-28T01:27:15.118Z",
     "AirProductToken": [
-      "AQogCh4IxJgBEgQxMjU1GLJxIKlRKJe-RTDgwEU4VkAAWAEKHwodCMSYARIDNDMwGKlRILJxKIiORjCZkUY4VkAAWAESBggJEAIYAhgBIgQIARABKAQoAygBKAcwAQ"
+      "AQo_Ch4IxJgBEgQxNDA4GI5QIPISKI2-RTD7vkU4VkAAWAEKHQjEmAESAzQ0NBjyEiCpUSiMwEUwnMJFOFZAAFgBCkEKHgjEmAESAzQxORipUSCLuAEoju5FMJjxRThWQABYAQofCMSYARIENTg1MBiLuAEgjlAooPJFMPjyRThWQABYARIGCAkQAhgCGAEiBAgBEAEoBCgDKAEoBzAC"
     ]
   },
   "activities": [
     {
-      "name": "Alcatraz Package: Hop-On Hop-Off Cruise & City Tour",
+      "name": "Helicopter Tour of Landmarks",
       "distanceFromHotel": 0.7,
-      "address": "37.8269775,-122.4229555",
-      "price": "$135",
-      "match": 85,
-      "rating": 0,
-      "ratingName": "Nigel Wisoky",
-      "ratingDescription": "I love Alcatraz Package: Hop-On Hop-Off Cruise & City Tour. It is an amazing place!",
-      "descriptionLong": "See the wonders of the city on this hop-on hop-off tour, including Golden Gate Park, Pier 39, and Union Square, and then venture offshore, cruising past the notorious former federal prison on Alcatraz Island.\nTour San Francisco and admire all that this diverse city has to offer from your double-decker bus. Marvel at 360-degree views of the city and take unlimited rides for the duration of your ticket. By day, hop on and off at iconic sites including Pier 39, Golden Gate Park, and Union Square to explore as you wish. By night, watch the city glisten and glow on the Night Tour's scenic route.\nWith your ticket, embark on a cruise and glide by Alcatraz, also known as &quot;The Rock.&quot; This tiny island is home to an abandoned jailhouse and the oldest operating lighthouse on the West Coast.\nBack in the city, make the most of your ticket and take walking tours through North Beach, Chinatown, and the infamous Barbary Coast neighborhoods. Visit the charming bayside town of Sausalito, where distinctive boutiques, an array of restaurants and cafes, and art galleries await you. Afterwards, complete your tour with an hour-long bicycle rental to explore at your own pace.",
-      "bookWebsite": "http://www.expedia.com/activities/192704"
+      "address": "46179 Jaime Locks",
+      "price": "$145",
+      "match": 84,
+      "rating": 4.65,
+      "ratingName": "Gardner Lang",
+      "ratingDescription": "I love Helicopter Tour of Landmarks. It is an amazing place!",
+      "descriptionLong": "For an unforgettable way to experience the awe-inspiring skyline of New York, hop aboard a state-of-the-art helicopter and soar high above the skyscrapers for incredible views of the entire city. This thrilling adventure lets you come face-to-face with iconic landmarks, statues, and sprawling parks.\nDepart from Manhattan’s Downtown Heliport near the southern tip of the island, and climb out over the Hudson River. Marvel at the 360-degree views of the Statue of Liberty and neighboring Ellis Island before circling round over the Financial District. Snap some incredible photos of the poignant 9/11 site, and the majestic new skyscraper, 1 World Trade Center.\nContinue on towards Midtown, where the art-deco styling of the Empire State Building, Chrysler Building, and 30 Rockefeller Plaza are all vying for your attention. From up here, you really get a sense of the scale of the buildings, and catch glimpses of the hustle and bustle of the hundreds of yellow taxis hurtling through the streets below.\nListen to the insightful commentary provided by your pilot as you gaze on at the green haven of the sprawling Central Park. Finally, make your way back to the heliport with extraordinary photos, and memories that are sure to last a lifetime.",
+      "bookWebsite": "http://www.expedia.com/activities/183607"
     },
     {
-      "name": "Alcatraz Cruise & Hop-On Hop-Off Tour",
+      "name": "The Lion King on Broadway",
       "distanceFromHotel": 0.7,
-      "address": "37.7749295,-122.4194155",
-      "price": "$110",
-      "match": 85,
-      "rating": 3.85,
-      "ratingName": "Tyrique Stehr",
-      "ratingDescription": "I love Alcatraz Cruise & Hop-On Hop-Off Tour. It is an amazing place!",
-      "descriptionLong": "Enjoy 72 hours of unlimited rides on all 4 of San Francisco's open-top double-decker bus tours, and explore the city at your own pace as you hop on and off. Top off your tour on land with a cruise out to the island prison of Alcatraz.\nHop on any of the double-decker bus routes to check out the landmarks of your choice in the City by the Bay. The Downtown Tour takes you by Fisherman's Wharf, Union Square and along the waterfront. The Golden Gate Bridge and Sausalito Tour passes through the Marina District and across the Golden Gate Bridge to the bayside town of Sausalito.\nThe Golden Gate Park and Beach Tour winds through the city's largest park by gardens and museums such as the De Young Museum and the California Academy of Sciences.The Night Tour sets out for an evening look at San Francisco’s sights and city lights.\nOnce you cover enough ground in the city, sail across the bay to America's most notorious prison for a self-guided audio tour of &quot;The Rock&quot;.\nDowntown Tour stops include:\n\nFisherman's Wharf\nUnion Square\nChinatown\nNorth Beach\nEmbarcadero\n\nGolden Gate and Sausalito Tour stops include:\n\nGolden Gate Bridge\nPalace of Fine Arts\nVista Point\nSausalito\nPresidio\nGhirardelli Square\n\nGolden Gate Park and Beach Tour stops include:\n\nSt Mary's Cathedral\nHaight-Ashbury District\nCalifornia Academy of Sciences\nGolden Gate Park\nCivic Center\n\nNight Tour stops include:\n\nFinancial District\nBay Bridge\nAlamo Square\nChinatown\nUnion Square\n\nUpgrade your experience to the Freestyle City Explorer package and explore the natural beauty of the Bay Area, visit a top local attraction, or continue your tour by boat, bike, or GPS GoCar with your choice of 3 additional activities or tours.\nAdmission to 3 of the below attractions:\n\nCalifornia Academy of Sciences\nSan Francisco Bay Cruise\nRipley's Believe It or Not\nMuir Woods and Sausalito Tour\nAquarium by the Bay\n3-hour bike rental\nRocket Boat\nAngel Island Ferry\nSausalito or Tiburon Ferry\n$25 Restaurant Gift Card\n60-minute GPS-guided GoCar tour\nMadame Tussaud’s Wax Museum\nSan Francisco Dungeon\nExploratorium\nDe Young Museum\nLegion of Honor\n",
-      "bookWebsite": "http://www.expedia.com/activities/219680"
+      "address": "83168 Grant Brook",
+      "price": "$115",
+      "match": 90,
+      "rating": 4.2,
+      "ratingName": "Keyon Treutel",
+      "ratingDescription": "I love The Lion King on Broadway. It is an amazing place!",
+      "descriptionLong": "As the curtain comes up on the African savannah, you’re taken on an enthralling African adventure into the heart of Disney’s classic tale—The Lion King. Journey with Simba as he realizes his royal destiny, all to a soundtrack of Grammy and Academy Award®-winning songs by Elton John and Tim Rice.\nThe Lion King opens with the instantly recognizable call of Rafiki, and a cast of African animals—brought to life by over 50 actors and dancers—is revealed during a rendition of “The Circle of Life” like you’ve never seen it before. The Pride Lands burst with vividly colored animals—human-powered puppets that journey through the aisles, giving you an up-close look at their fantastically intricate costumes.\nFollow the heart-pounding scenes as Simba faces his evil uncle, Scar, is chased from his homeland, and encounters 2 entertaining characters—Timon and Pumbaa—who give him some easy-going insight into their laidback philosophy during “Hakuna Matata.” Having racked up the ultimate in theatrical awards with the Tony for Best Musical, Best Choreography, Best Costume Design, and Best Scenic Design, this is one unbelievable Broadway experience you don’t want to miss.",
+      "bookWebsite": "http://www.expedia.com/activities/185492"
     },
     {
-      "name": "Golden Gate Bay Cruise",
+      "name": "New York Pass: Visit over 80 Attractions, Museums & Tours",
       "distanceFromHotel": 0.7,
-      "address": "37.8059887,-122.4099154",
-      "price": "$30",
-      "match": 85,
-      "rating": 3.65,
-      "ratingName": "Arvilla Bechtelar",
-      "ratingDescription": "I love Golden Gate Bay Cruise. It is an amazing place!",
-      "descriptionLong": "Get a look at San Francisco’s breathtaking skyline, waterfront, and wildlife from the water as you cruise under the majestic Golden Gate Bridge and circle notorious Alcatraz Island.\nSet sail from historic Fisherman's Wharf and enjoy breathtaking views of the City by the Bay. Pass by the lively seafood restaurants and parks of North Beach and the beach and bathhouse of the Aquatic Park Historic District. Check out the red-roofed barracks and buildings of Fort Mason and the pastel-colored homes of the waterfront Marina Districts as you approach the massive 4,200-foot (1,280 m) span of the Golden Gate Bridge. Keep your camera handy—you cruise right underneath this iconic and impressive city symbol.\nAs you make your way across the bay, the colorful history of the city is revealed through award-winning narration from a personal, wireless headset. Be on the lookout for aquatic wildlife including seagulls, pelicans, and sea lions. You may even be lucky enough to spot a harbor porpoise or whale.\nAdmire the rugged beauty of the Marin Headlands wildlife reserves and the waterfront charm of picturesque Sausalito. Slowly circle Alcatraz Island, once the involuntary residence of the nation’s most infamous criminals, including Al Capone and George &quot;Machine Gun&quot; Kelly, and see the San Francisco-Oakland Bay Bridge in the distance as you make your way back to the pier to disembark.",
-      "bookWebsite": "http://www.expedia.com/activities/219796"
+      "address": "285 Nelson Lodge",
+      "price": "$189",
+      "match": 95,
+      "rating": 4.45,
+      "ratingName": "Alf Rippin",
+      "ratingDescription": "I love New York Pass: Visit over 80 Attractions, Museums & Tours. It is an amazing place!",
+      "descriptionLong": "The New York Pass lets you visit up to 80 Big Apple attractions, skip lines, and save money along the way. From walking tours to observation decks, world-class museums to river cruises, New York has something for everyone—whether you know exactly what you want to do or are improvising on the go.\nYour New York adventure just got easier (and less expensive) with the sightseeing card that offers access to more than 80 things to do, including the city’s most iconic activities and attractions. Offering fast-track access at many museums and locations and an informative guidebook to help you plan your itinerary, the New York Pass lets you spend more time exploring and less time wasting your precious New York minutes waiting in line.\nActivities and attractions include:\n\n9/11 Museum &amp; Memorial\n9/11 Tribute Center\nStatue of Liberty and Ellis Island Immigration Museum (includes ferry and entry)\nWhitney Museum of American Art\nBrooklyn Museum\nEmpire State Building Observatory\nTop of the Rock Observation Deck\nAmerican Museum of Natural History\nMetropolitan Museum of Art (MET)\nMuseum of Modern Art (MoMA)\nSolomon R. Guggenheim Museum\nDiscovery Times Square\nCircle Line Sightseeing Cruises\nBig Bus Hop on Hop off – Classic Ticket\nRadio City Music Hall Stage Door Tour\nCentral Park Bike Tours and Rentals\nThe Intrepid Sea, Air &amp; Space Museum\nMadame Tussauds New York\nFood on Foot Tours\nGreenwich Village, Wall Street, Brooklyn Bridge, and Central Park walking tours\n",
+      "bookWebsite": "http://www.expedia.com/activities/183615"
     },
     {
-      "name": "Escape From The Rock Cruise",
+      "name": "CityPASS: 6 Must-See Museums & Attractions",
       "distanceFromHotel": 0.7,
-      "address": "37.8269775,-122.4229555",
-      "price": "$36",
-      "match": 85,
-      "rating": 3.9,
-      "ratingName": "Dexter Gottlieb",
-      "ratingDescription": "I love Escape From The Rock Cruise. It is an amazing place!",
-      "descriptionLong": "Get an up-close look at the foreboding island penitentiary of Alcatraz from the waters of the San Francisco Bay. See the borders of this fearsome former prison from every angle and listen to engaging audio commentary about the island’s infamous inmates as you cruise around its formidable shores.\nStep aboard a comfortable sightseeing boat at Fisherman’s Wharf and set off across the waves of the bay. Take in views of the city skyline and waterfront of the Marina District as you approach the iconic span of the Golden Gate Bridge, and snap a photo from the deck as you pass directly underneath it.\nConnect to engaging audio-commentary on your smartphone or tablet, and turn your gaze toward Alcatraz’s rocky shores as the boat loops back through the bay toward this ominous outpost. Study the prison’s grounds, fences, and cell block buildings from the water, listening to stories about escape attempts by notorious former prisoners like Al Capone, Clyde Johnson, and Billy Cook the Killer before heading back to shore.",
-      "bookWebsite": "http://www.expedia.com/activities/285579"
+      "address": "447 Spencer Bridge",
+      "price": "$114",
+      "match": 95,
+      "rating": 4.65,
+      "ratingName": "Joesph Waters",
+      "ratingDescription": "I love CityPASS: 6 Must-See Museums & Attractions. It is an amazing place!",
+      "descriptionLong": "Skip the ticket lines at 6 of New York's most popular attractions with a multi-ticket booklet that's valid for 9 consecutive days. This pass is perfect if you want to explore the city on your schedule, craft your own itinerary, and visit the city’s can’t-miss museums and most iconic sites.\nSkip the long lines and spend as much time as you like exploring the world-class exhibits at the American Museum of Natural History in the shadow of a T-Rex fossil, scoping out the masterpieces in the Met, and taking in the city lights by day and by night at the Empire State Building.\nAfter that, you can pick and choose from other great Big Apple attractions according to your interests, with harbor cruises, the State of Liberty, the Top of the Rock, and the 9/11 Memorial &amp; Museum among the options. Beyond simply providing entrance to museums and cruises, your CityPASS booklet contains valuable insider tips, hours of operation, and transportation information to help you navigate Manhattan and get the most out of your visit.\nYour New York CityPASS is valid for general admission to the following attractions:\n\nEmpire State Building Observatory\nAmerican Museum of Natural History\nMetropolitan Museum of Art\n\nYou can choose 3 attractions from the following options:\n\nGuggenheim Museum or Top of the Rock Observation Deck\nStatue of Liberty and Ellis Island Cruise or Circle Line Sightseeing Cruise (choice of a Semi-Circle Cruise, Harbor Lights Cruise, a 75-minute Liberty Cruise, or The Beast speedboat tour)\n9/11 Memorial &amp; Museum or Intrepid Sea, Air &amp; Space Museum\n",
+      "bookWebsite": "http://www.expedia.com/activities/184465"
     },
     {
-      "name": "Yosemite National Park Day Tour",
+      "name": "Empire State Building Observatory & Statue of Liberty Cruise",
       "distanceFromHotel": 0.7,
-      "address": "37.7452032,-119.598221",
-      "price": "$149",
-      "match": 85,
-      "rating": 2.75,
-      "ratingName": "Alejandra Terry",
-      "ratingDescription": "I love Yosemite National Park Day Tour. It is an amazing place!",
-      "descriptionLong": "Wander down winding trails laden with pine needles, gaze at torrents of cascading water falling from granite cliffs, and explore open meadows flanked by towering rock formations. Ride to Yosemite National Park and spend a day uncovering the stunning corners of this magical landscape.\nHop aboard convenient transportation from your hotel and cruise north, crossing over the Golden Gate Bridge and riding through rolling hills until you arrive at the gates of Yosemite. Disembark and follow your guide for a pleasant walk down scenic hiking trails. As you stroll, listening to fascinating commentary about the natural history of this 1,190-square-mile (3,082-sq-km) wonderland.\nLook for rainbows in the mist of Bridalveil Falls, watch fearless climbers scale the rocky face of El Capitan and Half Dome, or simply sit and relax next to the swift currents of the Merced River. When you're ready for a break, make your way to Yosemite Village to check out intriguing galleries, do some souvenir shopping, or consider grabbing lunch with options ranging from quick-and-easy cafes to fine dining at the Ahwahnee Hotel.\nNo matter how you spend your time at Yosemite, you're sure to be met with incredible views, breathtaking landscapes, and countless photo opportunities before you meet back up with your ride and return to San Francisco.",
-      "bookWebsite": "http://www.expedia.com/activities/304202"
+      "address": "8679 Daugherty Way",
+      "price": "$49",
+      "match": 88,
+      "rating": 3.55,
+      "ratingName": "Nola Nienow",
+      "ratingDescription": "I love Empire State Building Observatory & Statue of Liberty Cruise. It is an amazing place!",
+      "descriptionLong": "Take on 2 of New York City's most iconic landmarks, on-foot and afloat. From the sky-high vantage point at the top of the Empire State Building, to a mid-river perspective of the Statue of Liberty and Ellis Island, you have the freedom to soak up both spectacular experiences over a span of 2 memorable days.\nArrive at the Empire State Building, admire the lobby's impressive art deco interiors, and ascend from ground-level to the 86th floor. Absorb this world-famous structure's 360-degree panoramas of the city skyline via its 1,050-foot (320-m) observation deck. Far from the city’s ever-present hustle and bustle, you can peacefully gaze at famed sights such as Central Park, Times Square, and the Financial District.\nFor a contrast in perspective, head from sky to sea-level as you climb aboard your scenic cruise of the New York Harbor. Soak up the vistas of the sweeping Manhattan skyline—a view captured only from the water—and have your camera ready as you sail towards Lady Liberty herself for an unforgettable, up-close look at this symbol of freedom.",
+      "bookWebsite": "http://www.expedia.com/activities/186022"
     }
   ]
 }
