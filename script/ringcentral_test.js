@@ -6,7 +6,7 @@ const NUMBER = '+15107368436';
 
 ringcentral.login().
   then(() => {
-    return ringcentral.sms(NUMBER, 'Your hotel price has dropped to $123.24 per night. Book now?');
+    return ringcentral.sms(NUMBER, 'We found a cheaper hotel for you at $123.24 per night. Book now?');
   }).
   then(() => {
     return ringcentral.listenToSMS(function(msg) {
@@ -15,7 +15,7 @@ ringcentral.login().
         return msgs[0].subject;
       }).then(txt => {
         if (txt.startsWith('Ok, book your hotel')) return null;
-        if (txt.startsWith('Your hotel price')) return null;
+        if (txt.startsWith('We found a')) return null;
         console.log(txt);
         return ringcentral.sms(NUMBER, `Ok, book your hotel at ${hotel.link}`);
       }).catch(console.error);
